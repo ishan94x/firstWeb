@@ -2,3 +2,26 @@
     display: block;
    
   }
+  .jumbotron{
+    height: 500px;
+    padding-top: 164px;
+  }
+
+  .nav-btn-1{
+    border: none;
+    height: 46px;
+    width: 46px;
+  }
+  .nav-btn-2{
+    border: none;
+    height: 48px;
+    width: 46px;
+    background-color: #fff;
+  }
+  .big-banner{
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat; 
+  }
+  .fresh-content{
+    background: linear-gradient(to right,#6e1a52,#ec5252)
+  }
